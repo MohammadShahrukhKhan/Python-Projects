@@ -1,0 +1,13 @@
+Model Outputs:
+
+1. Decision tree regressor:
+     Mean : 4.216502762450162
+     standard deviation : 0.7775364884270816
+
+2. Leniar Regression:
+     Mean : 5.025272162092621
+     standard deviation : 1.0643286250850144
+
+3. Random Forest Regressor
+     Mean : 3.2974760682691744
+     standard deviation : 0.7437488635674776
